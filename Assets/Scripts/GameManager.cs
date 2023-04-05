@@ -30,4 +30,10 @@ public class GameManager : Singleton<GameManager>
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
+    private void Update() {
+        if(Input.GetKeyDown(KeyCode.R)){
+            OnClick_RestartGame();
+        }
+    }
+
 }

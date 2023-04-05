@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: f81a92c864e297741816a06f2d7adba5
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Appliances_001
+    second: {fileID: 2100000, guid: 5110e1e2c856fb34a81bf35ca71b3c79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Appliances_002
+    second: {fileID: 2100000, guid: 4a6a807f05858924eb0b7773c0ff66e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Appliances_003
+    second: {fileID: 2100000, guid: 2fa50ba31d10e854faca51ebaaf2568c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Cable_001
+    second: {fileID: 2100000, guid: 52ff59b5183313c4699d4d38702ac538, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Doc_001
+    second: {fileID: 2100000, guid: dfb9001e774cfa54fb17ff4350ff7b56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Doc_002
+    second: {fileID: 2100000, guid: 37cf2edbb9097fe4fa4965ecda6108ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Doc_003
+    second: {fileID: 2100000, guid: 38f8ab3f2c85e9a4480a90263a495135, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Doc_004
+    second: {fileID: 2100000, guid: 60e308be0576b204f8668862d4678c8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Doc_005
+    second: {fileID: 2100000, guid: 2760bb32c129bd541bcef469237e63b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Doc_006
+    second: {fileID: 2100000, guid: 4b5b22befa2d21a4383f14039122c38d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Doc_007
+    second: {fileID: 2100000, guid: 7a42bd12d56b5c746bd102e2927b7200, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Doc_008
+    second: {fileID: 2100000, guid: 88e3f68539d972d479ae916f1480ffa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Flask_001
+    second: {fileID: 2100000, guid: c2c22c303b8e0414882331c4e78f64e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Flask_002
+    second: {fileID: 2100000, guid: 0d07f73e9663c74409ccf26fee51d702, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Flask_003
+    second: {fileID: 2100000, guid: 0db9e093096e66441be33c1572686204, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Flask_004
+    second: {fileID: 2100000, guid: 21757e12314f4cc4a9d9a26c7e2e3a23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Flask_005
+    second: {fileID: 2100000, guid: a63e5474a10e0174890590b88b1e623f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Keyboard_001
+    second: {fileID: 2100000, guid: bbf16ba7bcc794845a23c1e84ace1c9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Keyboard_002
+    second: {fileID: 2100000, guid: b041080b4fa46cd40b1f6dcda180846a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Keyboard_003
+    second: {fileID: 2100000, guid: d9b075190c431f14b925c5d626a89042, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Keyboard_004
+    second: {fileID: 2100000, guid: 57fa513267beb6c4b986b086681a6032, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Keyboard_005
+    second: {fileID: 2100000, guid: 11042d6f40816f24d9a0ed583e5710c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Keyboard_006
+    second: {fileID: 2100000, guid: 19b6420bd21a48a448915f13525c2359, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Mark
+    second: {fileID: 2100000, guid: 607fb6fdaf406854782f706401829647, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Microscope_001
+    second: {fileID: 2100000, guid: eb129bbd72edd8f4e8aca8db861ef5a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Microscope_002
+    second: {fileID: 2100000, guid: 53698992455b8554f8ee447ec2bcd8fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Microscope_003
+    second: {fileID: 2100000, guid: d0aef15ea1291e64380a87ee5c3e9672, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Microscope_004
+    second: {fileID: 2100000, guid: cfdd31f610519a54d955fed941d2ddd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Microscope_005
+    second: {fileID: 2100000, guid: f76f3526e99132043a51e6aed0a6d005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Microscope_006
+    second: {fileID: 2100000, guid: 0cb22e5e7c0885f42bc29d09936b34b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Microscope_007
+    second: {fileID: 2100000, guid: 8f2eddebeaabd4848809ecccacb7a67f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Props_001
+    second: {fileID: 2100000, guid: ddd56152156c6304da0edf0f8d1f532e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Props_002
+    second: {fileID: 2100000, guid: 73861a34faf256e43a361def8be4e510, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Props_003
+    second: {fileID: 2100000, guid: 572287ed034a88145b240a8339bcf620, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Robot_001
+    second: {fileID: 2100000, guid: 21ab53570233e784987473539e5ca4c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Robot_002
+    second: {fileID: 2100000, guid: d212bfd8c117ec94cbbfeb416d0f3d49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Robot_003
+    second: {fileID: 2100000, guid: 000335402e0cb6549bd8b416d79bd821, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Robot_004
+    second: {fileID: 2100000, guid: 91f6810ab64f1824da2d07ba97e2e710, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Robot_005
+    second: {fileID: 2100000, guid: b4a9ca3396318504192d81f9d92c09aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Robot_006
+    second: {fileID: 2100000, guid: f29fe2a72eb238a4fbb8e07af6068caa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Robot_007
+    second: {fileID: 2100000, guid: d2db2aa66017e45438c14c23d722b51b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Room_000
+    second: {fileID: 2100000, guid: b6a0ce5fd8971e7428636b2e5fd3eabd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Room_001
+    second: {fileID: 2100000, guid: 61a7185c2e313d9419d756523875c934, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Room_002
+    second: {fileID: 2100000, guid: 08fb0739ea4d572498b671ad4ae677e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Room_003
+    second: {fileID: 2100000, guid: 9b8e3bf57f317e545bd42cacf68d0526, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Room_004
+    second: {fileID: 2100000, guid: 48d40cf5abc9e4f45a04de20b40828ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Room_005
+    second: {fileID: 2100000, guid: 68a1b86781fa9eb41b004b1b0daeba22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Room_006
+    second: {fileID: 2100000, guid: 7b28189c2570cee41bc25a804d7f654e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Table_001
+    second: {fileID: 2100000, guid: 30565c113331b204386040ba108ee362, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Table_002
+    second: {fileID: 2100000, guid: 4a87ebb5643a8fc4393cd4081e549c37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Tripod_001
+    second: {fileID: 2100000, guid: 519ec632fa471234c90e475de939c14a, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

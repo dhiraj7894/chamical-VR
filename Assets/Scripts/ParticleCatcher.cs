@@ -37,10 +37,18 @@ public class ParticleCatcher : MonoBehaviour
                 GameManager.Instance.StopGame();
 
                 return;
+            } else if(other.GetComponentInParent<TestTube>().hasExplosive){
+                other.GetComponentInParent<TestTube>().SpawnExplosion(other.transform.position);
+                GetComponent<ParticleSystem>().Stop();
+
+                gameObject.SetActive(false);
+                GameManager.Instance.StopGame();
+
+                return;
             }
 
             print("Hit and Run: " + other.name);
-            other.GetComponentInParent<TestTube>().ChangeVolume(0.0005f);
+            other.GetComponentInParent<TestTube>().ChangeVolume(0.0008f);
             other.GetComponentInParent<TestTube>().ChangeColor(GetEndSideColor(), GetEndTopColor());
         }
     }

@@ -52,7 +52,7 @@ public class TestTube : MonoBehaviour
         {
             _renderer.material.SetFloat("_Fill", 0);
         }
-        else if(_renderer.material.GetFloat("_Fill") > 0.8f)
+        else if(_renderer.material.GetFloat("_Fill") > 0.7f)
         {
             Instantiate(_win, _flow.transform.position, Quaternion.identity);
             enabled = false;
