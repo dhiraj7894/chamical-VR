@@ -30,6 +30,11 @@ public class ParticleCatcher : MonoBehaviour
         {
             if (_tube.GetComponentInParent<TestTube>().hasExplosive)
             {
+                other.GetComponentInParent<TestTube>().SpawnExplosion(transform.position);
+                GetComponent<ParticleSystem>().Stop();
+
+                gameObject.SetActive(false);
+                GameManager.Instance.StopGame();
 
                 return;
             }
